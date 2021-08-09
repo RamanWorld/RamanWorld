@@ -30,7 +30,7 @@ img
      width: 150px;
      height: 50px;
      background-color: yellow;
-     color: white;
+     color: green;
      border: 2px solid yellow;
      font-size: 18px;
      font-family: sans-serif;
@@ -41,8 +41,14 @@ img
 
 .btn:hover
          {
+          width: 150px;
+          height: 50px;
           background-color: goldenrod;
-          color: orangered;
+          color: green;
+          border: 2px solid yellow;
+          font-size: 18px;
+          font-family: sans-serif;
+          border-radius: 5px;
          }
 
 
@@ -61,7 +67,7 @@ img
 
 .base
      {
-      background-color: darkcyan;
+      background-color: darkpink;
       
 
      }
