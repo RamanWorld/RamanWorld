@@ -1,0 +1,79 @@
+.bg-black
+     {
+     	background-color: black;
+     }
+
+img
+     {
+     	width: 100%;
+     	height: 100%;
+     }     
+
+.font-div
+     {
+     	width: 30%;
+     }
+
+
+/* making responsive for large screen */
+
+@media only screen and (min-width: 1198px)
+     {
+     	.font-div
+     	    {
+     	    	padding: 43.3px 0px!important;
+     	    }
+     }   
+
+.btn
+    {
+     width: 150px;
+     height: 50px;
+     background-color: yellow;
+     color: white;
+     border: 2px solid yellow;
+     font-size: 18px;
+     font-family: sans-serif;
+     border-radius: 5px;
+
+    }
+
+
+.btn:hover
+         {
+          width: 150px;
+          height: 50px;
+          background-color: goldenrod;
+          color: orangered;
+          border: 2px solid yellow;
+          font-size: 18px;
+          font-family: sans-serif;
+          border-radius: 5px;     
+         }
+
+
+.tophead
+       {
+        background-color: darkgreen;
+       }
+
+
+/*.heading
+       {
+          background-color: darkgreen;
+       }*/
+
+
+.greets
+        {
+          padding: 7px;
+          background-color: pink;
+          color: crimson;
+        }
+
+.base
+     {
+      background-color: darkcyan;
+      
+
+     }
