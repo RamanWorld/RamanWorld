@@ -31,7 +31,7 @@ img
      height: 50px;
      background-color: yellow;
      color: white;
-     border: 2px solid yellow;
+     border: 2px solid red;
      font-size: 18px;
      font-family: sans-serif;
      border-radius: 5px;
@@ -45,7 +45,7 @@ img
           height: 50px;
           background-color: goldenrod;
           color: orangered;
-          border: 2px solid yellow;
+          border: 2px solid red;
           font-size: 18px;
           font-family: sans-serif;
           border-radius: 5px;     
